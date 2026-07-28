@@ -1,1 +1,1 @@
-This file was created in GitNewBranch.
+This file was created in GitNewBranch using a new branch.
